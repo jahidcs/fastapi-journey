@@ -1,7 +1,6 @@
-from fastapi import FastAPI
+# from qommunity.basic_crud import root, basicpost, all_posts, addpost
 
-app = FastAPI()
-
-@app.get("/") # path Operation
-def root():
-    return {"message": "Welcome to FastAPI !!!"}
+# root
+# basicpost
+# all_posts
+# addpost
